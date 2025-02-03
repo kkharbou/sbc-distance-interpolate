@@ -11,7 +11,7 @@ from folium.features import CustomIcon
 from pathlib import Path
 import warnings
 import pyproj
-
+import folium
 
 # Ignorer les avertissements FutureWarning
 warnings.simplefilter(action='ignore', category=FutureWarning)
