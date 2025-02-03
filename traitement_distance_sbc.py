@@ -6,7 +6,6 @@ from math import cos, sin, atan2, radians, degrees, asin
 from numpy import sin, cos, arcsin, radians, sqrt
 import numpy as np
 import pydeck as pdk
-import folium
 from streamlit_folium import st_folium
 from folium.features import CustomIcon
 from pathlib import Path
